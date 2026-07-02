@@ -1,6 +1,28 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "",
-  "_total_hashes_registrados": 0,
-  "hashes": {}
+  "_fecha_ultima_actualizacion": "2026-07-02T12:05:00Z",
+  "_total_hashes_registrados": 3,
+  "hashes": {
+    "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
+      "archivo": "ID00001.at3",
+      "autor": "ModderMaster99",
+      "proyecto": "Pack Narracion Argentina v2",
+      "fecha_registro": "2026-07-02T12:05:00Z",
+      "manifiesto_url": "creadores/ModderMaster99/manifiestos/2026-07-02_Pack_Narracion_Argentina.json"
+    },
+    "a7ffc6f8bf1ed76651c14756a061d662f580ff4de43b49fa82d80a4b80f8434a": {
+      "archivo": "ID00002.at3",
+      "autor": "ModderMaster99",
+      "proyecto": "Pack Narracion Argentina v2",
+      "fecha_registro": "2026-07-02T12:05:00Z",
+      "manifiesto_url": "creadores/ModderMaster99/manifiestos/2026-07-02_Pack_Narracion_Argentina.json"
+    },
+    "1f8ac10f23c5b5c6c8e9d4e7a3b2c1d0e5f4a3b2c1d0e5f4a3b2c1d0e5f4a3b2": {
+      "archivo": "menu_icono.png",
+      "autor": "ModderMaster99",
+      "proyecto": "Pack Narracion Argentina v2",
+      "fecha_registro": "2026-07-02T12:05:00Z",
+      "manifiesto_url": "creadores/ModderMaster99/manifiestos/2026-07-02_Pack_Narracion_Argentina.json"
+    }
+  }
 }
