@@ -1,0 +1,9 @@
+{
+  "alias": "ModderMaster99",
+  "nombre_mostrar": "Modder Master",
+  "fecha_registro": "2026-07-02",
+  "plataformas": ["PSP"],
+  "especialidades": ["Narración", "Menús"],
+  "contacto_discord": "moddermaster99",
+  "llave_publica": "llave_publica.asc"
+}
