@@ -1,6 +1,1871 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "",
-  "_total_hashes_registrados": 0,
-  "hashes": {}
+  "_fecha_ultima_actualizacion": "2026-07-05T02:50:22.445367",
+  "_total_hashes_registrados": 233,
+  "hashes": {
+    "ea2c66ecd44cceef5a2fea178cd9ddcf8c5ea44d05c8f9f50a065b40bc1b5c98": {
+      "archivo": "Aldo1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445393",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0c0b7bb41e4e1387d8eb068ed991f9cb69d63f7415098bf1feb52830f9f414d6": {
+      "archivo": "AliLima1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445406",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "92e74e1efe6c1b3f98c205fee3bd78444b0ba22dc0c10d60442d325a5f8aaae8": {
+      "archivo": "Bol2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445421",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "aed54d1580ea519fbd55f274d0bbacbf6bc7cf6fbe3fe0282fa0c770dfe11185": {
+      "archivo": "BolGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445433",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "17c7f8e8d9a3975c8be500e0494a2555de05a166b198ef1d60eefa67185b038d": {
+      "archivo": "Bolivar1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445445",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3475f4dc9543368dbfcd768e9b28eaa75a5b59da0b83619ad044b52b236118a6": {
+      "archivo": "Bolivar2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445456",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "4922bf38da257b5b0417f8ef4c7453776069bb233af3da8e9bba2d0abfb16e40": {
+      "archivo": "CerroP1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445467",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "81870f01ce5f8aa3e8f700c878dd2e946e3ac19a6d79e26e830c3107f6bc9fef": {
+      "archivo": "CerroP2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445478",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8317d20446630f47d5be15a76bb57553112f5398d6cca3da9ce4edf34dbc91dd": {
+      "archivo": "Cristal1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445490",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "105acae02fbd059cb5eafe04c4676078b7f259366e8496bf5c867f045368cf3b": {
+      "archivo": "Cusco1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445502",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ecfc750ea386d9683a2f8db9564bb890924d619684b6704a354906485f9c9f07": {
+      "archivo": "Cusco2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445512",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "1c29277038e917a58dfc66334dd9b62563fd5f304e43ea4fc0a54986bcb60a53": {
+      "archivo": "CuscoGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445524",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b86b8ec23a1da8c20d605bf94b817c77cf2dff971282125b6e9b21f3997f91d9": {
+      "archivo": "ERC1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445537",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3b44026af8aeca7c2a7e007003c75bc8ee65128af0271a737498f5cb634746cc": {
+      "archivo": "Guaira1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445548",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0fd9bc9057c8f96878df396a957d5b5d5b3a784082e44e5127769e8bdb2591bb": {
+      "archivo": "GuairaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445560",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "4f220044da598c5ad785cb308dfd48c749a356f15e8a34bf05fbecfe30e1ad25": {
+      "archivo": "Guarani1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445570",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "720a0701ab5b30aafd8a402c9fbd54db54c736056692ee8c69232182913b7f5c": {
+      "archivo": "INST1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445581",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "1233a25c6716f8100641359c887b23fd1cb95634197c95f73787442050846c70": {
+      "archivo": "Inst2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445591",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b7a666d20b8da80272a7bd0d1056513d13726d26cfa9dfb81522f6f8e2b11e8f": {
+      "archivo": "Libertad1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445602",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f93c863d60db65b8954674bde4580d2570a9df539cd4704bc35f73d293b45d57": {
+      "archivo": "Libertad2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445614",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "772481fc0913f03601e75acd85dd29324867ccc7b4c08243bf373faf4a9d0652": {
+      "archivo": "LibGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445625",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e72b6d4c2718e0c93b29c121f14f88482be99aa2306cb8f2dad34a2cc62c0ee8": {
+      "archivo": "NacParGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445637",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e35ff8976cf70eb28ff32d76b16f29afb2037dc567fe3ee0255083a5e16027d6": {
+      "archivo": "Olimpia1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445650",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "461ce591d492dbf29a09b6ea8625309308d37b1ac3d28461b352eeb0e8290597": {
+      "archivo": "Olimpia2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445661",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "91d6f65f781657ac13c2b8c8f7425797c6d7e4b4252dbbfcfb492ad00a8f5005": {
+      "archivo": "OlimpiaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445672",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "9bf4a0167c4b30618440e3db63e0e07b1bcf8a62306fe3e971984878f99c8a9d": {
+      "archivo": "Riestra1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445683",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "88ddcf33f57737433c5a89fef8f4a334302ed484268991756ff80cb80fb65521": {
+      "archivo": "Riva1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445693",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ddef88c33071e1c4cd736eb55cb99c2358cb574f484edeb3f327a59a2753a3a6": {
+      "archivo": "Riva2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445704",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "fe23f76da2a4ae98d7c6cf6b232160d70e55e28e1054a930d44daaa0f21b232b": {
+      "archivo": "RivaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445714",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "755e052da2ddb7c77e3265915041e98e8559848ef1445394fb75168446cb0ab2": {
+      "archivo": "Sarm1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445724",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "1541277fff4d0d68d4b20f06cc0f9c161cc7c20948d97e94de797b9f14e2bfce": {
+      "archivo": "Strong1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445735",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f3d54fe72fdb2fd50a36e8fc1d44857be549325a9631c2ddddeff85b6a1d9894": {
+      "archivo": "Tachira1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445745",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "2d3db7618b416c1ede44bc0b2bf201fcfc58aab4c4d661ec76c1b4c82ca856df": {
+      "archivo": "Tachira2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445756",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "06df7a4e40fcd53ebff9096a422a0a9a497312113d726b63fe3838896d4fff3a": {
+      "archivo": "TachiraGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445766",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0495d3b79a32c082a1444b8ac2cd95e22166035e7854fb19e3d6b714ad9fe363": {
+      "archivo": "Union1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445777",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ef5eaec9fd9c55a1c4880b18231971ecf04fafb4898ac8877a9a1c357b362e7e": {
+      "archivo": "Univ1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445788",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "10822d726773125937b9c3600f6abf71a800138e97b494f6be71bc59c4f7f14a": {
+      "archivo": "Botafogo1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445798",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6d24d2fbce166c1b17fe87a034a3df27615b0415221d10b56a0e152d18437064": {
+      "archivo": "Corin1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445808",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c1423cc55b7d38d8540d384fa2c15f96398471982d09e9978af388a04b1e5426": {
+      "archivo": "CorinGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445819",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "dd18fb379319574d2c6d4f8558be6c8e677571c5c31647f6bfd9a0a78a33466c": {
+      "archivo": "Cruzeiro1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445830",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "63b7f33540c8ade62f8cd66c0f1cf26f847c5775da848e723717c8af3c815380": {
+      "archivo": "Fla1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445840",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "828b8bab44087b275e9085900075d89674552d3a9e677f636093e229de147837": {
+      "archivo": "Flu2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445851",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "08232a9d92901b2a3bf1dac962862e0e1ac2881a865138567e21b76a7d3ae94e": {
+      "archivo": "FluGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445861",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "76756c16f8c70ae384a759cfc0399d6fbb018c6caabf44a8186efe9e8c700a87": {
+      "archivo": "Flum1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445876",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "1448c382954e2ef659883ae04daa7a3703b40158681634bc9184a40c1c50239b": {
+      "archivo": "Gremio1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445886",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "65bed08de136cef25815ff1023f5fa4da60133961f40feff6456a53157175622": {
+      "archivo": "Mineiro1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445896",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "44630eded6af5d8039a0db306a728698643e4c1d4f3d14c602ab23afbd836cd6": {
+      "archivo": "Mineiro2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445906",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b60a204e0c8f49b22aadf9397a39ef0a5a8d419a6043848c99942088ad1e6db4": {
+      "archivo": "MineiroGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445916",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d7c5bec6738d4d77bf110aee2ff6bc06f5ccaf7c906117bd88b1dae5bb502234": {
+      "archivo": "Palmeiras1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445928",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "08cc9757604eb4b53a64eff44b5e9c4bdb507ab615ec497b5c864163e82fd7cc": {
+      "archivo": "Remo1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445939",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ad065bee9e847fca9af4e44cf77dd0d8227c95bb0d193e052802d6cc2a42e9e3": {
+      "archivo": "Santos1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445949",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "004b607aa84e7a9039996c9d3a483548de00e75500ce11c68e42c8a9fd79d9f3": {
+      "archivo": "Vasco1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445961",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "70254c14932077e5e7870d7166696f02ada82d9260e555907ad2cd45fefc56a0": {
+      "archivo": "Colo1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445972",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "a867a68cd0644e8750019ffb6e900414be55fee6a0ac00d25b4c0522ae82ed69": {
+      "archivo": "Colo2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445984",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "790963ec6e5e6b11f2919c65d0e91b2f649b6173f7762ae6f93f3f9e3c43de28": {
+      "archivo": "ColoGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.445995",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "948ad619c3bf41bea98a9a0019fcfd592d8f07158c0477b9028f9ccd7eb653cb": {
+      "archivo": "Coq1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446007",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3773e114944e5f1eeca043bab0d42764c02d4f528aa75c7d1283d4fb3dfe1cc9": {
+      "archivo": "Decon1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446018",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "af09ad9366d05e7e8874572212bf2f7509a3d8fc162becf152d5c6bd8016c332": {
+      "archivo": "EveVM1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446028",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "a3dc11da2c36df65e0b4711e2b82341eeff4a7e7cab7739bf154e0fad3a54fe5": {
+      "archivo": "Ohi1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446039",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "a002c9f871d8e815b1f3f83dd40802893e86bbfc238c62a7787d2d57ce016424": {
+      "archivo": "Serena1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446051",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "eba421935b4180296c7e28bfc8d71895f45bcef71fa38a012717e9ea1e1ffc7c": {
+      "archivo": "Uca1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446062",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "9fc72bceb77e7c5ab860d5f775d6149ec58d1075dbf7a93887ba69b2b40166d6": {
+      "archivo": "Udc1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446074",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "068d18aa980865b825a94907014990ffb19fcfd7c914cb2c4a4eaedc14b4f689": {
+      "archivo": "UniCa1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446086",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "5698fd8778d24d4ef47b2e1bf6239de16af0d4bc841e316bd5fe0bb3140d54e3": {
+      "archivo": "Ali2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446097",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3feda7bfa51ec3ca534ceb0ca241500f3fbf722819a5fcdb29ffa39bd068321f": {
+      "archivo": "Boca3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446109",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c89241ef87ad0ebbacfed33561cb5b35e96c5d19ef975b4ce623c27ec6425cec": {
+      "archivo": "BocaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446120",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8b9b9b2266784538da41d917ab97c97ac2cda42b6f9a53783ab14fa7e06eff51": {
+      "archivo": "Bol3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446131",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b00596089a7666099a3b95814ce93c0b58f90ffa4cd2a7bd0e4f5864b2d4eac0": {
+      "archivo": "Bolivar1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446142",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3a01c5d365e83f34c2d4c5dcc4784c8b93eb4bff3a6497e3c3d39613bca23a84": {
+      "archivo": "BolivarGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446156",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b414a6f45c53f817fd835b820d5a738cbe21ff051e0fca2ba05a86cc955a7e5c": {
+      "archivo": "Botafogo",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446168",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "263a4237af21f2565c0d792a705d61965b55900e791d0abb3761e3328d00e58e": {
+      "archivo": "Botafogo3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446179",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6370ba9403f96b96af6239da2f44d80d8e7320d52f2badccaac32de73534d8c5": {
+      "archivo": "Bsc3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446190",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "848f8aefddb8c74f0dc6976c0197076e5dc9a4274e83410ca7c829f46374370f": {
+      "archivo": "CerroGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446202",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f5a546048f407c001c441d8a0e0ef3dabdacd545a817118f7c1a7403c6133eab": {
+      "archivo": "City1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446213",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "9b5f50ff1773372cf2066aa2d3a576098405db435cfae47a89ef59813b89c5d1": {
+      "archivo": "ColoGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446224",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "441df734d86fffeb36d049598b83c086c611f38c4190a72e21acd09b9a4e368a": {
+      "archivo": "Elp3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446235",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d04f8c0bfc0abaab86a3dbdd25d059ee1c2518e4a26218cff6f4489d26a653d2": {
+      "archivo": "Est1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446246",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "975c627e3fd607ed00605ada539433061dc94acd74f08b0e7c10bc568d1b6440": {
+      "archivo": "Fla1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446258",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e6f9539184ef91dc9b9da6e76314285da7a6316fa349b23d79e1b8a00df6b067": {
+      "archivo": "Fla2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446269",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e939da8ce3b320eed8abde6211df130d7e47f7cf2aac28c55baf4c5bbc546fea": {
+      "archivo": "Junior1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446279",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "a833c06a9f1b790dfaa6c2649c7ff29954f6932348c8d03a5e90db44e72a1683": {
+      "archivo": "Libertad1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446285",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "fd7222820ff6f0e7483254b88c578fea7e93ea4e6478f703708552a9370557ca": {
+      "archivo": "Nacio3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446292",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7a74894db060c7c97ea8f24b63d12358684e214cbfd6525854514530306d5664": {
+      "archivo": "Nacional2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446298",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0251b75d93f614ddc9db44dfa503b79443602487c63c2da709d44c09b9a5a883": {
+      "archivo": "NacLib1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446305",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "a89211e52ab878cafee32d354f1f9b592550d063b91c6a11beac16875101e359": {
+      "archivo": "Platense3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446317",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b48f91fb0d76e0556bb993983f5f064004e87b6dc2eff44ce74035604fa1f695": {
+      "archivo": "Racing1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446329",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d41fd10d4c4f1c2cab08b49ac6abc3c21c46202165ddd478b62ace0d8ab95dbf": {
+      "archivo": "River1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446344",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f253688ee07123631746a5a732528063dc5f5888e3dc129f3e1bee57cb758960": {
+      "archivo": "River3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446355",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "39b3745e77995d3a29abcdbd258dc5845474a705d4335b19adcf85df5c5f2fd6": {
+      "archivo": "RiverGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446366",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "00960e2c8198dcbe8c0bd98050ce8e9a902035e55809169da9a0a78b160b15d2": {
+      "archivo": "St1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446375",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "4091f36e6617aa515e094d1a3545ab154ab810ad092b72c695197967b65913bb": {
+      "archivo": "St2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446384",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "1a5875d66ad3af3a6ddf7523cbbe530ffad79997b5b8839439ebbe62db8b559d": {
+      "archivo": "Stgk",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446393",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "dd12e840d46fc512801a61d3a4fe9894be7449215bc07b2389ee83cc14ab2d93": {
+      "archivo": "Tachira1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446402",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0b609adfa88ae0ce9e4ad5017775e1880f9725b55af4efcf56eedb09b3743521": {
+      "archivo": "Velez3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446412",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3bd5268375d922c4d3401935a07351733e464298f7f2d95161f69d0acdf4b84b": {
+      "archivo": "ArgJr1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446422",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "80dd82b0dc978898ae73df9ad3552da3410b578b5b043fb50f15b665aa83faf7": {
+      "archivo": "ArgJrGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446433",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "27a6e60924010e0089d46956c806fc7aa81962bd60986965dc8fac5d7c69fcfd": {
+      "archivo": "Args1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446443",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c3b3f991c9b0e7eb292ec560ec1d0eaf27c8abea93718c3ef53b84b54e34f680": {
+      "archivo": "Arjs2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446453",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7002620ea4fe459536f2e34a71784d3b78113d0379f881bc5de2634357885183": {
+      "archivo": "Banfield1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446463",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "50f577029a17f049d70cd1db5477113dabcecda89c20e21478aa1b7ae8742d01": {
+      "archivo": "BelgranoGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446513",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "248ccdf51f661b086525612402e47ec4c779cc5b6a172fcc1e0017e0856f5251": {
+      "archivo": "Boca1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446528",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "89a9590c2675047a2f3641090ca3d295794c368cc974c5e48f98bc67180d012c": {
+      "archivo": "Boca2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446539",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "404b1f879aad9812523be8163f792c0852cc0c702ed8179bb47b042dd7d14735": {
+      "archivo": "BocaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446550",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e248942d65b957ad01a3c5dfc126ea587be43b89a5626a48a1c40a13dc27ec58": {
+      "archivo": "DyJ1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446560",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "de5c1c363c60dfb8d37f4c3f313f4b75a80c83d15b90d956cf992c6757ce4261": {
+      "archivo": "DyJ2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446571",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0b3766ef3ddc68a4180a8f48ee1f0b6e7e3a0b6964aa3b427366e6096b1aa2f4": {
+      "archivo": "DyJGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446581",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "05bfda8ea680f21857b92fe5eff3acab6d2d1bf8fa49819498d7f47922084411": {
+      "archivo": "Est1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446593",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "480f027e4bc4d7555389b74fee183cb9ded78b049e38879abf8e149f6a8804d3": {
+      "archivo": "Gimnasia1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446603",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "2ca22271db36342a947bfb3d5b708e211267935e7894f9d8e0aa05b398a201b4": {
+      "archivo": "GYE1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446614",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "369638277e65030d2d65c2febd3b630b8ed78980647ae935ff7a29ccc153d2c9": {
+      "archivo": "Huracan1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446624",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6c36bde4acb6fdef048eb0f161829d3de2ec6db3181c61d35a4df1fc87eeb8f6": {
+      "archivo": "Huracan2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446634",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "33e32205794ce04aac4611c3e744dfcbb01c1b0d0bf50398900566c8e7da2d00": {
+      "archivo": "Ind1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446644",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8522fe9cdda50f2be23c009aad66b4618b3626fea161875e72c14c748f7cd85a": {
+      "archivo": "Ind2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446655",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "eb4ed298add8ffcd2eb11d49f3cdb0cd0ddf4d97e04eee13ee38df85f48de05d": {
+      "archivo": "IndependienteGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446665",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "80425b68b38f38f1e0d5c75eb171fe60b6f722fe8f53717fa1d3dfe881f16fc5": {
+      "archivo": "Instituto2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446687",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7718aeee8ab50786c9435b28d27eba5c0a5ae14efb2af4386001d785f28b17ea": {
+      "archivo": "Lanus1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446697",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c248c40d58c91c33ecddb7fcb01816a64a64a56844865daef008a018afe263df": {
+      "archivo": "LanusGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446707",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ab85b532618fb57603c7b26c06bff03743c1820aa026a56dc2c693b87a71feef": {
+      "archivo": "Newells1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446719",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "717fdf8027521b03898144860e2ce3d3060eba48e2a3d4bdec27ae2adfcc5947": {
+      "archivo": "Newells2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446773",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "2348698387a9ed0665c95e2d44b03d9071d5c1c23646c7a0932c9ebf909a5583": {
+      "archivo": "Racing1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446791",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f119ea269ad81561e4bc0a0ef67e17f67de107ca5cc3fa7eb6c56450f8374202": {
+      "archivo": "RacingGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446801",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7cb6210515190462e1ebd990a98ccc51b5eb5e35f1aca2f122b0243f9304f738": {
+      "archivo": "RiestraGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446816",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "2fe7bef2b41cf137b9acaf9fb1a145a2932947262f9d2872812158a079f6f847": {
+      "archivo": "River1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446827",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "46ea04db56f768ed9238a308cd7448ac34115af0a0ec08fa59c7d19265d3ef02": {
+      "archivo": "River2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446839",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d7352b2466b9a4fb703e8f34a4fd33aaf30ede91e585a9769d151961b102cb5e": {
+      "archivo": "RiverGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446850",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6da4e9c20805aa64dd061d4e1b8f9e7ab3dbf6340eee08b48d207ed730363939": {
+      "archivo": "Rosario1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446861",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "70d01f12bd0e7d0188254b9ae17f57aa5085eb1900e146ab5063831669e5d72c": {
+      "archivo": "Rosario2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446873",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "91e9b0b5059e6603412971f3bfd75874268b741a3004347826da27c9a73f5031": {
+      "archivo": "RosarioGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446885",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "18c31931f041c12cbb6aed20940fb02fc55f7b7db57e3541ed03f29b1398acb7": {
+      "archivo": "Slo1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446897",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c8ad846b59eca9de83b7b76c2bb4a3029fe96834942afbffcba134e1dec5fbf4": {
+      "archivo": "Slo2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446909",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "19674cdbc16aba06a72862423c255663c9ed6f0b74aa47a66075e0662aa7a3c3": {
+      "archivo": "SloGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446921",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "9e65e0984ec8ee5307dabd44b3082ac55b4ba5d72378f33899b9519a208b1959": {
+      "archivo": "Talleres1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446933",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b2dcd0802937724a01fccc0a9ad5ee429ffdf7197a19a9520988db0dd4d190a5": {
+      "archivo": "Talleres2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446945",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "df0befada904415620ac59dbd6aab92c2d88ed801b2388ff498a228018032bdc": {
+      "archivo": "TalleresGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446955",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "dd9d7933237e26bc38ca801ecef41d3f52b9ca1e198b5cec6f7da5b0bcd26942": {
+      "archivo": "Velez1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446966",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "2dafd8c42abbd99f01b6d603cc11af8ceabd080ad3115bba14957ec0b7d2c6d6": {
+      "archivo": "VelezGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446978",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e20ef240a534c182db90ba4eb1ab932c27c2965a3c8f3a91efa58ff1fd93a7cf": {
+      "archivo": "Aguilas1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.446990",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "2c39691438584a879f9fa14bf377a26840f2628a336ef8ae628b9efa6843b1ec": {
+      "archivo": "Aguilas2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447001",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "89ced56c53e04059db6684630722b18e57dd850d2dd25755eb355e55a47325f2": {
+      "archivo": "Alianza1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447047",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d0f97c80035c65057cfc42b190034c5002053a61a63d91a129c8f81321e28f7a": {
+      "archivo": "Alianza2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447059",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d12c479e01319c58c9bef1abeff9ceba5244a9ce1cc8bf1a8293d22caf2a89cc": {
+      "archivo": "AlianzaFCGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447071",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c0561496aa3c1c66a4859ff1b29c0f254b5e8e429f026aaa3f1fd838b81c09a2": {
+      "archivo": "AmeGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447082",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "1e04578c6ae14226072b9f2aa76ee454b074d3250d341b96db4eddd053538de6": {
+      "archivo": "America1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447094",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e53bc519ad214e280aeeeaeb64875de2c00732bd5ad80e6d2092eb6988e88383": {
+      "archivo": "Buca1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447106",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "acf055b1a9d9d9e0cf4ad19a6930133a53568a2153f644b2715761c58761ae3c": {
+      "archivo": "Buca2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447117",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "faa88feb59f635938b208ef256260fc1d8cb9a70708d6d46e07c1c12935e0252": {
+      "archivo": "BucaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447127",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7ded1160d680061209617c44d754b93343566f30ac03075189a689ad9b4026a4": {
+      "archivo": "Cali1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447139",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "855c2b7cf5d78bb7041cbcfdf1a57a901032afacd59712af874785f90707d7b2": {
+      "archivo": "Cali2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447150",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "90c0078cff4fc9a62717956ae203749961107c1a62c4b6965d7995f9f0f3bc69": {
+      "archivo": "CaliGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447162",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "2ce62dd38a4016741550e513b7a18c796bee5b20f4a17b79bea83012e040a18e": {
+      "archivo": "Chico1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447173",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c312471c00f78e5324675d1f9ea25fde6562c4674186e765d2539d239f5cd15a": {
+      "archivo": "ChicoGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447184",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0960a0ad99ab5c22b14bded97e7d6c86c6d481cb3f25ca3965447b06b46b5458": {
+      "archivo": "Cucuta1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447196",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "05d5e9b734471fd0b69e270aed524ed8a9fce9edea3515f130cd6724ae67ba88": {
+      "archivo": "Forta1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447208",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "eeacc458d90114d1c796b2c5a418ec7afa3b3a81f74f33da3e499b885bfa1b76": {
+      "archivo": "FortaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447219",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e7873908b7f328a53c3b02f59599055565fc5b9096b89499de174c7f016e56e2": {
+      "archivo": "IDB1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447232",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "519ff05067fe441422c4ba75ed4b172d1abf8384b2894f06abd610e76b457897": {
+      "archivo": "IDB2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447243",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ae56f06ddb61d550608d9fb151e41d52e777b32fd88c009fd968f5061b1f18ab": {
+      "archivo": "IDBGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447254",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ab9896adc2d2b5d24c93b434d139476e5aea8c7545b626466c023c3e4cd565c4": {
+      "archivo": "Jagu1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447266",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f2a674e4da54520ab690736e7f7e094cfd2f2f51313e6a69033d63a938dc78d3": {
+      "archivo": "Jagu2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447288",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "797fa36bca01dd84efba31ba692b0d6ee836efb49344925a40dfb008bfeb992d": {
+      "archivo": "Junior2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447303",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "0a9b93504b24b2135caef663ebf35d963bc99e2dcc582e91fcafd8d78c998aff": {
+      "archivo": "JuniorGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447315",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c95af6d7c1d68324c5887ac91dc6a1dc5992cebfafaa52000375b2e1be19abd0": {
+      "archivo": "Llane1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447327",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "42d1fa08e263e218244edfa3afacdbace4b2aede480d1ee435c120537f74e76b": {
+      "archivo": "Llane2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447339",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8f697145577459894656e51dbba057b9946a4a53aff8a69798d9537dc96ea55d": {
+      "archivo": "LlanerosGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447350",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "32218971178c2a28f6fca2e132fbcf065b32764d07749b1fecfcf78c7b92c716": {
+      "archivo": "Magda2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447361",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3a6b48f474d2bd6654273f7771db60281294f4ab5a082c4ad9c1b52d279c582b": {
+      "archivo": "Medallo1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447373",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7fda7dd7cd341f722b7fb04a0de3d9796241d033ba9d0093ac0a74d0212f0af6": {
+      "archivo": "Medallo2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447384",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "978d232fcf0ab602459c744ae5ad5a444e630f941af009acedc4e743a1275cdc": {
+      "archivo": "MedalloGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447395",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "684d9461307241f46e9570fb138ad79682a37401dffa1ce4d35bae2e2c85790f": {
+      "archivo": "Millos1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447407",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e7a219d2c83a69b0e066276bd2b69c0fd947317d0283aacda18349736919e2a2": {
+      "archivo": "Millos2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447418",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "00f3708206363314aed8294b441b0dd4ffcb0f2c3e10abfab9482ee957870433": {
+      "archivo": "MillosGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447430",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f47aec38f413e28f42531cc68ed261d379ee80cd25a04b967a634d193c65d1f0": {
+      "archivo": "Nacio1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447451",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "838009485727b557ac4a7e92b0d47dac52a9d4e5549420f0499c16204adb2a6b": {
+      "archivo": "Nacio2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447464",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "068b1c283fe8076eb69f8184e4e29f7f1d859703959aa47432385a289d796461": {
+      "archivo": "NacionalGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447476",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c58318f8d181dd6fec380b63369ce3786e90b5b90f0caa96ebbc5acabe150705": {
+      "archivo": "Oc1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447487",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "9e062cee750625173c4d060930200b417d001e9a13d990667332be495b3de437": {
+      "archivo": "OcGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447498",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b479ffe1bf84b96b30719a6673aea1a31cac702b63c652eb68665ae0c5fa1803": {
+      "archivo": "Pasto1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447510",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6b4817f04d7060ecb66bed8989b7ff295bb29d8663ff6c205dbc761aa10587ae": {
+      "archivo": "PastoGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447531",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "5c76dc6ceb28386ced0f4f4cddc2ea36736e81cbc49ee5d136be1fecc7643e86": {
+      "archivo": "Pereira1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447544",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3bb99c90cb230bccaaa2938a9e906a1502f542bb26dee18ebdc2e7bc50432d31": {
+      "archivo": "Pereira2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447555",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "9e0096af813c57c061a6c87eeb389a9c2fa740e8b5d82083bf928bb6a0e664ab": {
+      "archivo": "PereiraGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447566",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "aaeaa061998ee7c0aa5a274aa4b12c7e3bcded59130ffbdd38098ab9707e3968": {
+      "archivo": "SantaFe1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447578",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6ac6ea8ceb7c894b572b2940cf1d52dc5d9c63b21fcf345354936402e2f350ae": {
+      "archivo": "Sfe1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447589",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "553e08a44f0c53671ccfd91b186c341f9836931c3e5cea7396dfb0c8c5086c7e": {
+      "archivo": "Sfe2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447600",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "ee9bd4e86bd6f7d9c1df305723c1473dbac7393560d8a4a0ac7d80af07a8c1e5": {
+      "archivo": "SfeGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447610",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8145cb3b96f8dee5e0e0698bdeb047d323c38ddfb07b2c1b2f623ef762b398c9": {
+      "archivo": "Tolima1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447621",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "50bf65618ead685ee08b61967ab286e9fa17df9ce27fb1cc458ee4b85a68fa4a": {
+      "archivo": "TolimaGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447632",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e90ed97e630f4f2c33e71a329be7e71d5e6f5dfcb38517ac551ac3d44973d7d8": {
+      "archivo": "Ambato1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447643",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6b7c6f86678c4e7eeb740f915d62a9a2a666e7bbbe3a017b7e60ca73d182a827": {
+      "archivo": "Aucas1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447654",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "195aa7379db0a9ebe5f5cfd9a68a3a31d346492951a7a2468d2a702e0eca4d06": {
+      "archivo": "BarceGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447666",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d9817371198958fe32546b2946363271ba40c4d12812298c713782896bdf046a": {
+      "archivo": "Bsc1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447677",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3766188d1a55596be2094e4a331ccaceee52122bd2efe33e5ab289aef57e1c29": {
+      "archivo": "BscGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447688",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6b40c574857c96b109cf3d8141287a1f8120f60762411dde8d0893e516bed144": {
+      "archivo": "Catolica1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447699",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b44e86aafbf19d8e979ace12960897b7caf956cbd101b7949b3c3e9ecaa2b058": {
+      "archivo": "Cuenca1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447711",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "bf5dd20a79466cef06481d37d5bfd3757437f7ff4577cf147d2f033ceb27c925": {
+      "archivo": "Delfin1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447722",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "cca8eaeb34eb0818c0d4c9f86ebde75f892e63bc1683cebbe85a0613cf419c9b": {
+      "archivo": "Emelec1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447733",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f837af7daad5d8503d0c91a3b3bc8f5a9795b89ff0a9ff231ed1ea21e67ef75e": {
+      "archivo": "Emelec1.png",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447745",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "06bc6b66e4d6c2077a6017b18efa949c4188b24b75a77544da5de9f5e2a06e91": {
+      "archivo": "IDV1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447758",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "3950b47a764f523b7e79fd8d177d929b0a5d9add302a211f9bdb70dc9092d67b": {
+      "archivo": "IDV2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447769",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b7b9e48463e30a20c40721c4e476c3b683115bb0483ae08556985c3c3205a210": {
+      "archivo": "Ldu1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447780",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "a2dab10175ea3e26826a996eb2dbce4772817e489e95bf6e8eeadb8fde0aeeba": {
+      "archivo": "Leones1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447790",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b56f93b0d9b58690b6eac630df3ed82f00bf9733bd0cac6f09cc71a503f93b8f": {
+      "archivo": "Libertad1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447799",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e2ac85e3b408c4ce0a1082162a43dc9785cafcb18de68b3a291f570711873e02": {
+      "archivo": "Macara1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447811",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "58978c3589eb84553e71dbba52f1343874b60a73e2d41aa459acd13a70723b7a": {
+      "archivo": "Manta1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447822",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8fd4a72b5760d28a0486ed6659653de37749ea2b26346ccf93c799bfab178280": {
+      "archivo": "Mushuc1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447833",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "e4aa3d28f610d568e57098f7eddc0305df3893228cfa2fe20b3bc81b981e1471": {
+      "archivo": "Mushuc2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447844",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "a78669bf0fe65b7d32374d0246b5451f3dab90bfbb81fc8462bcabdc0e44dae9": {
+      "archivo": "Orense",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447855",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "758545cccf079d2c6d62b75acc7e159c66a4458fdaf2ce0a9829ad2be1c56296": {
+      "archivo": "Quito1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447865",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b449438258516b42b3f6302bea89acaa4f12f4b15fafe9625c21b274e6aa69c3": {
+      "archivo": "River1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447876",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8c872cd0b9eb16b14a12357abbca080ebf30e50576b011c1961318b91eac040a": {
+      "archivo": "Vinotinto1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447887",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "5745c9f3cc46c74d5e3c627b92bc742d0f1a6c04c78c5b69005b258e4600d2a7": {
+      "archivo": "Arg2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447899",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "5963fece0dcb8caa5da8e7699cc030d0f845c3566611278272d63fe8f71ea04f": {
+      "archivo": "Bolivia1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447910",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "1e1ea06b6a6285c3792c47c557807dce53450aa5b9d150c7cf57e1907eb04b67": {
+      "archivo": "Col1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447921",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "8cd96adb2db3fac1414464af1eae87a142b2cb85835c162e23a5a0f53f37c0fb": {
+      "archivo": "Col2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447933",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "de783f390fdabe225d3ecbf4d73849c93a529326effba0ae682c4c6377f9ae3f": {
+      "archivo": "ColGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447944",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "482cecbb854ebc73125359bbb30a4fa4c5618dacf0e6a44d59883b31fdf82464": {
+      "archivo": "Ecuador1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447957",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "831678ae6f2760555623eb60f4787cebae2416f0c2edba50b7e30d5f79d6cda0": {
+      "archivo": "Mexico1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447978",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "04ad995f4b41033da8caefb2a8a8c5faea4f8e7a5013642b985de631d658a9ff": {
+      "archivo": "Ame3",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.447990",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "6dd9efe63b18034dd73d1b8d46bd9c8e81fc122e78079a1cca2e8dc31063a7df": {
+      "archivo": "Bloo1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448002",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "cfb5e9639561349917c373fab2285eaec8a2676549c69626d4c85ed9da8abc51": {
+      "archivo": "IP1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448014",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "b966e35c9795a0dce9f8caf1dd758dd078586dab1142dec911a7062aacb14084": {
+      "archivo": "Potosi1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448026",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "9a442c0c733995cc4812ad1e707fb7f3643205e774cf110e0e84bb96c27a2536": {
+      "archivo": "PuertoC1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448037",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7ba74360b20a750cb2e94d9bdb630515415f51a3967058a80d6e24543eafaeaf": {
+      "archivo": "PuertoC2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448048",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "5ce741808f24c69bc2ce81a179ce93715258544956a4f8f457d409b630d87de8": {
+      "archivo": "PuertoCGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448059",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "f4bbee7d5b3db7cd02b62edfbf2aa45420b4e82a798c524033dc27cd29ffcc11": {
+      "archivo": "Reco1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448071",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "377087892eb33616a2f618f320bbcc9a4903e4dde7ba59691e5db36eb561b358": {
+      "archivo": "Sullana1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448083",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "c35a1964ad1a04139a13253d2f62e5504309087ac072eaf343e61c9e27d02e92": {
+      "archivo": "Liver1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448094",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "92b219a22d7029d2e74d3b8c8e8fad808fdce1fdfb54a0c466ae9d2ed07bdcbd": {
+      "archivo": "Nacional1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448106",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "7d162b7bce991e507dea6049e35aa0425a81fd1eeeb2091d5da874fb988cbc8f": {
+      "archivo": "NacionalGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448119",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "10e9f6206969fd6bbe23be9b565ecfd2cad60ca129c3916cafbc7b835d4a5f2a": {
+      "archivo": "Peñarol1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448131",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "d19c110def29256ed1a9243d8fbedd61f61981164197ddc47c8a6b65e128f861": {
+      "archivo": "Peñarol2",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448142",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "05294fb6f7631be3a4b416450274e6938c54cd93f482ea339c76cf35735144fe": {
+      "archivo": "PeñarolGK",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448154",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    },
+    "aa07f28e852e57260690435ae262420a2d7f9d5bb96e68134b9cc0a177851078": {
+      "archivo": "RiverUru1",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Kits 2025 LIB",
+      "fecha_registro": "2026-07-05T02:50:22.448165",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Kits_2025_LIB.json"
+    }
+  }
 }
