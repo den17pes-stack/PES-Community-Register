@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-05T02:35:50.905380",
-  "_total_hashes_registrados": 168,
+  "_fecha_ultima_actualizacion": "2026-07-05T02:38:16.681678",
+  "_total_hashes_registrados": 176,
   "hashes": {
     "461539f2543a7591f6b5db9cb0e06499f899e98967f81877dfb4cc825cce07ff": {
       "archivo": "Lejana 600 - Angulo 1.jpg",
@@ -1346,6 +1346,70 @@
       "proyecto": "Camaras eFootball 26 LIB V7test",
       "fecha_registro": "2026-07-05T02:35:50.905498",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_26_LIB_V7test.json"
+    },
+    "f9b6e8c685811ec378f048a661146950ecfcbecfdc05d5fdc85411199b7a1187": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.681708",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
+    },
+    "75862a23bdc290383bf627f6efe5ec7df000930750b4d573bdd37fe8c5699af7": {
+      "archivo": "Normal.jpeg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.681721",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
+    },
+    "87b007c664da3fae77914833a45cba6fadacf14aacf40f5648564227a052c390": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.682131",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
+    },
+    "f48eb3fec395aa8f6096031e3044d110b1c4da9d541cea942d448cdd9ef006c6": {
+      "archivo": "Plana.jpeg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.682168",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
+    },
+    "dc60dea1b4545eb51268000d3d878cb7703b49bd430aaacdbb3e69d3c7dd2ca8": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.682179",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
+    },
+    "930c6cb19fe5b799c114bafd56367aa51178a37bcdd4172eedf7b23f7744b748": {
+      "archivo": "PS4.jpeg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.682192",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
+    },
+    "e8d5dba34ded74ad18c4bf5a7a441ba69bb114cac7420b795a7178e503c37417": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.682201",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
+    },
+    "df94b6d39e74ddce4195bc61b48ad6230887f8d73d1db79b4e34926805f1d489": {
+      "archivo": "PS5.jpeg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+      "fecha_registro": "2026-07-05T02:38:16.682212",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_2k26_L_S_Editions_LIB_V7test.json"
     }
   }
 }
