@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-04T20:14:13.811130",
-  "_total_hashes_registrados": 2738,
+  "_fecha_ultima_actualizacion": "2026-07-04T21:17:57.941033",
+  "_total_hashes_registrados": 2739,
   "hashes": {
     "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
       "archivo": "ID00001.at3",
@@ -19169,6 +19169,14 @@
       "proyecto": "img logo world cup",
       "fecha_registro": "2026-07-04T20:14:13.811181",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-04_img_logo_world_cup.json"
+    },
+    "c26fb02bf9acec259eb6a04957db773fcdf43c74a797a436b0cc60e03390f7db": {
+      "archivo": "images (3).jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "fondo Wcup",
+      "fecha_registro": "2026-07-04T21:17:57.941082",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-04_fondo_Wcup.json"
     }
   }
 }
