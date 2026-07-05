@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-05T01:57:13.292858",
-  "_total_hashes_registrados": 155,
+  "_fecha_ultima_actualizacion": "2026-07-05T02:10:16.850598",
+  "_total_hashes_registrados": 162,
   "hashes": {
     "461539f2543a7591f6b5db9cb0e06499f899e98967f81877dfb4cc825cce07ff": {
       "archivo": "Lejana 600 - Angulo 1.jpg",
@@ -1242,6 +1242,62 @@
       "proyecto": "Camaras eFootball test",
       "fecha_registro": "2026-07-05T01:57:13.292941",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_test.json"
+    },
+    "ffff4d0517d5c4ccca242de459f1214cef34cf9ed85148d1ce1d78f284ff2fd1": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 13-25 test",
+      "fecha_registro": "2026-07-05T02:10:16.850631",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
+    },
+    "0fa429e731d8632609c3787cbee585dbaa13d79f77193a4a69450531a61c4eb6": {
+      "archivo": "Screenshot_20260429_234117_PPSSPP.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 13-25 test",
+      "fecha_registro": "2026-07-05T02:10:16.850652",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
+    },
+    "fa83fcef639d8fb4f50b17894ad8102ac619a5040ba003be337f39549b39e5e0": {
+      "archivo": "Screenshot_20260506_002247_PPSSPP.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 13-25 test",
+      "fecha_registro": "2026-07-05T02:10:16.850667",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
+    },
+    "d5bb8ae926abbf1a947b0d297580f88001225b035cc3a2b4707bb37eee29fde4": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 13-25 test",
+      "fecha_registro": "2026-07-05T02:10:16.850679",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
+    },
+    "4f67c14ac33f2932580d4abb492ae763f056f67e33d7e1b123be1cea0d3029c1": {
+      "archivo": "Screenshot_20260506_002000_PPSSPP.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 13-25 test",
+      "fecha_registro": "2026-07-05T02:10:16.850692",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
+    },
+    "ab6e031bfd91955147226eba28c88610b181bfdce12a6d01f4d0d996835152db": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 13-25 test",
+      "fecha_registro": "2026-07-05T02:10:16.850703",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
+    },
+    "69e92ade5900deaf942b588a2b695431af1df2368a1aa75c608eb291b7fbfff0": {
+      "archivo": "Screenshot_20260506_002704_PPSSPP.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 13-25 test",
+      "fecha_registro": "2026-07-05T02:10:16.850716",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
     }
   }
 }
