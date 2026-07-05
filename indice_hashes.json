@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-05T01:13:11.981712",
-  "_total_hashes_registrados": 72,
+  "_fecha_ultima_actualizacion": "2026-07-05T01:19:01.908869",
+  "_total_hashes_registrados": 140,
   "hashes": {
     "461539f2543a7591f6b5db9cb0e06499f899e98967f81877dfb4cc825cce07ff": {
       "archivo": "Lejana 600 - Angulo 1.jpg",
@@ -578,6 +578,550 @@
       "proyecto": "Camaras v2 C19",
       "fecha_registro": "2026-07-05T01:13:11.982650",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "6713d53e3c41babf5b8669b8dfa7744f1f23f795ece74d3803ca1da0988eb2dc": {
+      "archivo": "Leer Nota.txt",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908898",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "2c57759121bb2e9f042dc64e98855c882701a98e466101cec919ec4635b85851": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908914",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "a4d1ac8f1139464090606ee47bd6e6fe9943f5f8330447452e47a84d4b98b3a5": {
+      "archivo": "LSLIB2K25_00021.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908926",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "4ce9e90fc5658f36af39fca1259f11ee7715c4d809059e6dc673afa7e2632988": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908938",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "a2b8b0ba5614ba4239c2de55a9f03be470205b5b7d657115be71467c0bd2501f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908950",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "e2c1031c595fef0f88786539b8323f8f5fab7bc63baae0c2e38c93207dec549e": {
+      "archivo": "LSLIB2K25_00011.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908961",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "c3fb2b8e2d87f748a4333d8d254c979f27a981368af978f22ebf040c234798b2": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908974",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "d5b2d67ff0da9576c77dea8406339214f1f2e5be3728f0d32b2a02fd121bfbdf": {
+      "archivo": "LSLIB2K25_00041.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908985",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "def59cd1315c186d9c7a39bac46ab9fba28cc8801d5ef78ea94364a5008aeab6": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.908998",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "92ac9571d2f5d590a812725622f63433f867349241553cd8093292935db88b05": {
+      "archivo": "LSLIB2K25_00033.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909010",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "1b188a279dbad4e7766be6bf7875959e118f966e7dde679613ae1148d6d696de": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909021",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "d4ca584aa6fb108dcbf87b1865eefe0cb0da71e079161a71ce2c0a14dca5aa45": {
+      "archivo": "LSLIB2K25_00020.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909033",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "953d8efc880d1d3912a7b3401ce07afdcb6fc12fe2fcd6f1da62231ec219f9fc": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909045",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "974986c2d374f52bd9b199f69dec3133c54650369ec3745ae2b758fdaf3654ce": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909057",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "51f4d332af67933cf29bdc96a1e873ef91285ba87c43171e6627c4866f1453b1": {
+      "archivo": "LSLIB2K25_00007.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909074",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "2f103909ea9113682946f61d880b14175f26fe28143f9b62688f02c15ebaa092": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909087",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "84ccc3abf2f05b5949c35299f8b7941ac1030677dfea38c28ecca497964a536c": {
+      "archivo": "LSLIB2K25_00040.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909099",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "98b2f30ccc550e339a5ec34427f2d71969be08a33bbff7ba4c8a4259dc437b36": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909111",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "ba82404d8fd2212df50229d2872fbf1be819c5f1ccbcd7c28a55fd3db719c3ec": {
+      "archivo": "LSLIB2K25_00031.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909122",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "a51e98c830247b42c3a3c3b85918c0ad820a556400e31de55290fd8bf7c2047b": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909134",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "58b235135c335ec55115be6ae82e4c8f43d7fb6605b628b312d006bb77b7eb33": {
+      "archivo": "LSLIB2K25_00019.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909146",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "05b7f5f9c84319d76a9a9fc01f1a67ebf2f21d73370dcca10775099c16c0e5d7": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909158",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "9e4a1bd04aa4abd1b8f662b19888920c5cbbf2307da2b6a649b2a249b3afaed9": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909169",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "c6afb4b6a6f9d47e55fbd150fce714fe447f9d58a89db0b4742f0546057d47ec": {
+      "archivo": "LSLIB2K25_00005.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909181",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "f49aa0f8557f78a599203cedc7b48427dacce57f2aa90d2ec79eec152bafccf1": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909193",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "1824d8b2eb5e214a29490f7f0783c1993bcf3c8a043af2399012dc1654a9dd59": {
+      "archivo": "LSLIB2K25_00039.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909205",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "1585ae30eadc375be65adccbf9e526fd6dbe1e58ee2b8a7ce89d1d352754b5e0": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909216",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "e3f0c521fad169b04ede0d97f1f792138163cfb2a3b76f871752e64bcdf85e4f": {
+      "archivo": "LSLIB2K25_00030.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909241",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "6aef68b6e3400ab3b7aa3b322564ba4e745304a1d54542250e8b08bef0bbd265": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909254",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "ffced0eb982ec37002c14e0697015a251abeed52b525185fdb72e0a537175155": {
+      "archivo": "LSLIB2K25_00017.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909266",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "72c675dc456a917ffcefbae52822339653926de4ee2a028bc836a60b2cecc224": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909278",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "abcd7cee0aeca46ca1ed68f5ac41501af7df07d9350792e69500091a56cdb7b6": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909290",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "c00e58dd55cc7ac79508c41d5bb629832e5531fac82d6cb514b0fe0568f79ad0": {
+      "archivo": "LSLIB2K25_00003.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909301",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "9dc02f337debdf93b3d79db8fa3b2e50d5f75cff95c20c01d0dcbc399890e431": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909313",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "0874f4db0e416ebf159b884f82c73fe56a45a070916abbc0f708d572e56c0bd9": {
+      "archivo": "LSLIB2K25_00036.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909326",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "04ea968b126d5aa0ff947c2fffae68e97d247131b0ec16261cd8915f8f6624a4": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909337",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "a1263712ef11867bbf4de3cf93e74fd9772aaabeb2a168d164b7d820d0875b66": {
+      "archivo": "LSLIB2K25_00025.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909349",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "e4721ee79a3c34eee3740d8e423ab0d4b3131bcc6ed726e9dca8cf3b9c62b3d2": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909361",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "a1b03026f2a909112b758f063db629890b7449f8eb3e012539775e7c45b51ff4": {
+      "archivo": "LSLIB2K25_00016.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909373",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "10e73c364f4baff7b508114f3ffdb3ef5b6683d0becca0dc8a5009366499759c": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909385",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "c0f61efb9b8d03b8f411487cd334fa1dd97a091aeed59c8f2683358d230d970f": {
+      "archivo": "LSLIB2K25_00032.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909396",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "4543d27a831575243826d3056c5b0c977c6b843cab5c1a3f2fc4c950078e0d6a": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909409",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "711902628a60ab8bd275563038fa3ebccfd5856916b0557bdbf4a63ea6b64fa9": {
+      "archivo": "LSLIB2K25_00002.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909421",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "e69124c4da174fb9d5079b5c6a3ed0dd363b0e429eb2550bc6990a975a721520": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909433",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "1542ef7095b412563775251fac2c005c74ffae9978e132fa1cb628abb555e240": {
+      "archivo": "LSLIB2K25_00034.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909445",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "85cb22b44ee87b56ec8798d8b840e3cd333568f3fc77306d71f63831b0edcf39": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909458",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "627fa0393c4bcbfc4d7508430a4ddc027a3a632923fd1ff46d6a963c6c950577": {
+      "archivo": "LSLIB2K25_00023.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909469",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "ab4d254672aa1d4fb84401f529e6771edbb6d3295e3d86f1598ac387001bbd3c": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909481",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "66c8912b617267f18ba5de495f9fc6e6da35f29ffbf0870e9e309572bc9e548f": {
+      "archivo": "LSLIB2K25_00018.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909493",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "b3deb980756b3cfec37bc151cdfa40c7779d538c97a5578bacda1455ca816b26": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909505",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "437da26264fdb9f1a8d3c848b787f204c30b9fad8d4f442c6192ab19baf9947f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909516",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "9721f8f6703941f796a1ee27dcf3f566ded1e51860213feb49942a9860097709": {
+      "archivo": "LSLIB2K25_00004.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909528",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "8df7f11e6192ccf745bf491d0e1a700ff43639e8caed29bed1e2f14f580f0206": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909540",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "776fb60c953464eeae685b69b2ffcd58c99d951f3bf4ab2d9a66d7e6b8f7f96d": {
+      "archivo": "LSLIB2K25_00037.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909552",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "cf30651bcef8db92223cda200f7d31a2a5720290bb280f23a37973236eea0c53": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909565",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "0fa3acef3f498df952def969c02737bc6ea59a00e50719e09a3a59f6660c9376": {
+      "archivo": "LSLIB2K25_00027.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909576",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "fab0c991c70b35cd6108888ae6d0240d2924b0f42a7046c550bae43d8764aec5": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909588",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "bb257236575ffa9e0c82a89e4b62da68c579c4e2641d2f481e34751fea93fc64": {
+      "archivo": "LSLIB2K25_00012.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909600",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "6d3db6d09d37c0e0213e145c0dd80a3233d0ce9e2349e36089c9710bde345eb4": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909612",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "ebf0d78baccc2a26910798d58dc5b3e87a679ef297d74ad5bf42ea7387098907": {
+      "archivo": "LSLIB2K25_00013.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909625",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "d7ac77e44a1dacb90b8704911155f7f54e374a1273df67338501f1cac9b834d2": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909637",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "718a604166831eb8c2c6db1b35dc6b34ec0b8408b83e3fa1fe8ba8053b214b7d": {
+      "archivo": "LSLIB2K25_00000.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909649",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "844918ba0d2002950c460c5a7a5dbbbead182a60e05c68a0383e59ed4c54343b": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909661",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "108f4421d1d4d9f9b91e33333116b5c7cfcea870fd78b86995a0df36977fd9f4": {
+      "archivo": "LSLIB2K25_00014.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909673",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "bbecbccf955201bea13a8f397409f5b69c32bba5cb7a874fd88dd8cbc3ab38d9": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909685",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "b235eba2614ef883d7f77793d2c02fdba8552a94f03042ceb947c14435f68ab5": {
+      "archivo": "LSLIB2K25_00015.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909699",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "8ab4d3c353c1daf91a494de58d46ad293d9d244563648bf7e211566bbae6449a": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909712",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "e8e52b1ba7a5b483580ff3092a61fc01d012cb0a39ba7cefb6511ed47b26ed39": {
+      "archivo": "LSLIB2K25_00022.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras LIB 2k26 LD_Editions",
+      "fecha_registro": "2026-07-05T01:19:01.909723",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
     }
   }
 }
