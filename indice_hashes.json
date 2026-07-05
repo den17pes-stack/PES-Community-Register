@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-04T19:06:12.746141",
-  "_total_hashes_registrados": 2737,
+  "_fecha_ultima_actualizacion": "2026-07-04T20:14:13.811130",
+  "_total_hashes_registrados": 2738,
   "hashes": {
     "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
       "archivo": "ID00001.at3",
@@ -19161,6 +19161,14 @@
       "proyecto": "Nuevo mod comunitario",
       "fecha_registro": "2026-07-04T19:06:12.746203",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-04_Nuevo_mod_comunitario.json"
+    },
+    "1e4f39978a018f0755930d4a1539f08d6a88ba000ca56232a2ab529c2025d81e": {
+      "archivo": "Sin título.png",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "img logo world cup",
+      "fecha_registro": "2026-07-04T20:14:13.811181",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-04_img_logo_world_cup.json"
     }
   }
 }
