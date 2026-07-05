@@ -1,6 +1,583 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "",
-  "_total_hashes_registrados": 0,
-  "hashes": {}
+  "_fecha_ultima_actualizacion": "2026-07-05T01:13:11.981712",
+  "_total_hashes_registrados": 72,
+  "hashes": {
+    "461539f2543a7591f6b5db9cb0e06499f899e98967f81877dfb4cc825cce07ff": {
+      "archivo": "Lejana 600 - Angulo 1.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981740",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "6b185860c5d0256b72fedd6f2339af060c71946dc305eb4a59bdfc0686b67bd9": {
+      "archivo": "Lejana 600 - Angulo 2.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981755",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "14691c7cf2ec43a6e0a8665ee8f9fdf1562187af7e3580d215cbae765c442fa5": {
+      "archivo": "Lejana 600 - Angulo 3.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981768",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "9b7aeb887a87b6b0d9098e06fc35714624f85db25270659a3e657c0a230df53a": {
+      "archivo": "Lejana 600 - Angulo 4.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981780",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "6e4e711333b2f8afcb85f0e6a713a6ec329619564976e41e29dae084dbef4c57": {
+      "archivo": "Lejana 600 - Angulo 5.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981791",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "277dfabd42edcf58ba9687ef0cdf40872f5c698b214e5f5a45a609f7d7e8797f": {
+      "archivo": "Lejana 700 - Angulo 1.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981804",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "b8224d2754a547875617591c00bfebb153654a8687c4cf50cf9070f26f36ad5e": {
+      "archivo": "Lejana 700 - Angulo 2.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981816",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "7877357f9efb1e31e13c2390ae1d7d240068c491170c65944b9e8033aa11ffaf": {
+      "archivo": "Lejana 700 - Angulo 3 D.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981828",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "c37bd6abf1369a7660cf57631cfb9568e68d841bb06799546cd7262a80aed563": {
+      "archivo": "Lejana 700 - Angulo 4.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981840",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "ab9607059942351b01375d1767ed69f0ffbbad1422f94bb9754fd3fd199887f6": {
+      "archivo": "Lejana 700 - Angulo 5.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981852",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "169baafc8db71f1838908b387daf9781e38722cb785073e0007e14b667183523": {
+      "archivo": "Lejana 800 - Angulo 1.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981863",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "8d1cb65ed0af052800b9474476fe27ad9bdc78b5b808a56b2539e32cb6d08a5c": {
+      "archivo": "Lejana 800 - Angulo 2.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981876",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "3da0af18dc0f768f1418e2508663ff1aa83c712799f6d660ccd4d744c794adc4": {
+      "archivo": "Lejana 800 - Angulo 3 D.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981887",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "3a9ee298acea66b87be4efe0253af4ecbc0eb92cadd8157f52abb7aef6a1db7c": {
+      "archivo": "Lejana 800 - Angulo 4.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981899",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "8e95689ef4c84235ff4eb39ba92a741ae7415d69779772fb782053c7dc58816a": {
+      "archivo": "Lejana 800 - Angulo 5.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981912",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "649f5335289ceba739f56d6b7a27b3043fbec82330a67c1ee6d104628e988d17": {
+      "archivo": "Media 1000 - Angulo 1.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981924",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "73f0d944c13e9cc3caab413eb7a978a55d7f46bc367feab9ec94677247e25146": {
+      "archivo": "Media 1000 - Angulo 2.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981935",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "056a4212f120962a64c1f0831b854c5852dfef4b5d25812660832849365e2c57": {
+      "archivo": "Media 1000 - Angulo 3 D.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981947",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "79656d6da6bc42eaaa6e1c42f2911d103850467798c78acedaef44965ce7a1d7": {
+      "archivo": "Media 1000 - Angulo 4.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981959",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "d8ed7b7a8b69c4fcb594267f71174a6281fc20be23ed1b6a7178c25a69c0fea5": {
+      "archivo": "Media 1000 - Angulo 5.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981971",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "3276a9ab729180d59f768fd602f01456528b3ab2413fb1141da48c3cd038199f": {
+      "archivo": "Media 1100 - Angulo 1.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981984",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "8d0c935df5a120f993c6282603d0834bcd4d6a4fba92a34700086eee2745bb1a": {
+      "archivo": "Media 1100 - Angulo 2.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.981995",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "acabcc7429757ccb6bedb226f36bd4471097d864f9c190e9626f3eddbf8431fd": {
+      "archivo": "Media 1100 - Angulo 3 D.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982009",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "4358f64db3da24ec3cf1ab5f00afbc1b8f50d4559f5f3f60ad4473e800bab7b3": {
+      "archivo": "Media 1100 - Angulo 4.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982022",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "f171289e7e71572a14efc20f1a2dc2c18b33820ae59e31af49687f39576c0dcb": {
+      "archivo": "Media 900 - Angulo 1.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982033",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "29ef2daf630d5910e41061db8bd416b229e7ab49f750bb1aebb74f487869d540": {
+      "archivo": "Media 900 - Angulo 2.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982046",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "9acb0626433f1119777bafb9c7810cdaaa99862a65528ca52adc64038fda3671": {
+      "archivo": "Media 900 - Angulo 3 D.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982058",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "00a9e233cb1e63cedc3b3a10b2901867662b7d1d1d8e5e597e0c1082ed64650a": {
+      "archivo": "Media 900 - Angulo 4.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982070",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "616f10631ff174a83676b8f7dea37c0b3d599148aff52342357c69ff16690f49": {
+      "archivo": "Media 900 - Angulo 5.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982082",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "20d4ed4ab922e1ca4b60a636cf450400ffdc0701b4a76643c409cfbf222ad70e": {
+      "archivo": "Normal - Angulo 1.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982094",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "c6808f26cd575f38f2c551c5e4ea82f27fd25323d3ef95f20dd8d6f6f95f378f": {
+      "archivo": "Normal - Angulo 2.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982106",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "061fce8e8bdae1c482c7733d029d38a9e5f9275d08ba394b482130b0473b74b8": {
+      "archivo": "Normal - Angulo 3 Dafault.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982118",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "7f1036aa0c9c3b702a0a7f1c30a3c79b6662ab74b9b97deff24abe2d880c3edc": {
+      "archivo": "Normal - Angulo 4.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982130",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "dfc414d40e8b0052207cfe491705df72b095789ad70ff2a31c5aa216db9e267b": {
+      "archivo": "Normal - Angulo 5.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982142",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "1c31decb0cefcc3b59c8857a7d7dc5949200b8ec5af731b18677fb6b9b3442bb": {
+      "archivo": "Vista desde Arriba.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982154",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "48f0c20de1cf51ce1290c18daaede2a9a53db37bf5c8388cad3679e7d3d8828f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982165",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "970c394456f635831f6ddf1694847aeb195fb1d99cb03007aa565693e963e00c": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982180",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "fc6ad2413cdf23b5a2367ba5b4c30f1860ec1892fefa681723880426b0aa26e5": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982194",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "0fb0989f67ab4a5b1d67079a0fb6687c0525f242c19728fc7252a65e65907006": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982208",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "342e144978c942abaddf87c3447abe497a8d7d6ff03e17e93a91a5e32340675f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982221",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "5a90ebaf83785ab2ff50075bb61a9017f14fbfa81c120b799081309960b47a60": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982236",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "8b9c31e8aa5065f29db068df33c17dc650779edd15c570e2d8cb76e2d4de7d2f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982250",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "7ec363eef6b03807abd3c16b6bdb283166657aba2a9a61404060b9d473f2c6b2": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982264",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "e51b9a26e04f1dfd363177e346809bad00aa43e8c65468b89fe9f20043235faa": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982281",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "5b6b28b863478692b61d17ce0aa906fd9aea2b80e19abfb2b92ef67d67b7a50a": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982295",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "9207df86a49be9a4bbe5f07d6a9e966c6b0e5dd08965299204e9bf13d0947f01": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982310",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "2dbb3ec9795ada60ffe5e1415a9b910956a58d7cbfea53c9dce3fbb7b89a04e2": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982324",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "9a02f8d34b0e35d0a7805717797460fca759d0d67a11d543e71369ad810a7dac": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982338",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "af688b8ee80426c9614da11a8e390716e84bc74128d68719c34d29ccaa6195bf": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982352",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "222bf55f439805f8c49a1cf5b55cd315caf48e344ceb0a628291ac1a3e49d1be": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982366",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "22aff28e71265f310e3ab470186ed7dbe6cce5704815443a9ca6228d04a269e4": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982381",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "8d6045cbeb8b68765bf5c57960a8f4c80e2f8c7716772e8e0256a233762988f3": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982394",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "c6d9a2bbb9e92d7caed30b37c6f6c8c41e90af320248e929acc9bc79dcf73b07": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982406",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "02439be68e9673feb67513c4d276b6c33852bbb80dec4610086ddb3f411f311f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982418",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "f2a3fbdb4467740658f6499dd80e854c29607d07c435a0dadcd59b5ed81a62e5": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982429",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "73688aee8d2c9a999c8221be30a2ea588bd45e33ce94fd82d8fe72caa41c7a79": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982441",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "f1e6874af04f1af6e3636a58056cfc714d10cd3db19e44553ea63cfe34a91eab": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982452",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "e4efc04473ddb5aee760ae40fa09ec7438f34f7ffe45d311544b298c7885a093": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982463",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "9f4353d0f8eaf8ef17cbab75da85ac7df400be0897b1c8795e4559ffc49f56c5": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982474",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "28453cce8638160395eceb3ee463dd05acb1d40323e783fbdcb07d3904880a03": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982486",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "ae72bbc44f4410a0135428deb2e9ccf9c740ed22a0b392ae6f2498e013ac4f8c": {
+      "archivo": "Media 1100 - Angulo 5.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982496",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "f65d7910defb625b55a2372cf21a30240b31e0451614837aaf97c0ed80efd3f3": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982506",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "7b9d27db349be1b44ee88a807bf44767b22d5e52eb32934f91aaf41add683bf0": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982518",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "ea17e32db5c5ee755c3f7bd7e83c7974570689c4f7e08e66eda1b3238e72a528": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982534",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "9580321bb40c7294592e64ef8e991a803aa7ade85d2a201d5a2877346dae856b": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982549",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "ddbe99ba4cfa506215981899dbbd462e6b8071144dc3e5d2ec7375738662537d": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982565",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "2d2638f8b9a5f14c96308c5b4a33d178caa98abc4ffa4040c7fa40d0352e0a60": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982580",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "0114bbbee5d1875834ff4d8e35144c401b2c85f3ff4dcdc5cca1b91dfb500a8a": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982594",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "19c681acaf22530dc4c240d332be3c5bd53bd24a436b320afd2779abae4bdd19": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982609",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "63b60b28c6ad19fa9e4c9cd810d4912bc9ea54e561abe68abe7824709b595a7d": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982622",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "3a9f14d4da83706a944898b201492a593399b4001ef822fc5fdb0ab073a8608f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982636",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    },
+    "494a0123f3afb4b76f2d579cdab51957bfda04c9a70a0ab7e1c307c29fd1deef": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras v2 C19",
+      "fecha_registro": "2026-07-05T01:13:11.982650",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
+    }
+  }
 }
