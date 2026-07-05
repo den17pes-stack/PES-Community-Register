@@ -1,0 +1,30 @@
+{
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "Camaras eFootball test",
+  "categoria": "general",
+  "fecha_creacion": "2026-07-04",
+  "total_archivos": 5,
+  "archivos": [
+    {
+      "nombre": "EBOOT.BIN",
+      "hash": "1613f382c1ee5b95bd3e1f820d1353d7a0283012f10a0f0859a370f75c02fad6"
+    },
+    {
+      "nombre": "Lejana.jpg",
+      "hash": "6360d4d9fbdb0832408fbd9ea8cbabdaaa50a63fc26c9edbfc138a7408dc25e6"
+    },
+    {
+      "nombre": "EBOOT.BIN",
+      "hash": "1e5220e5d67d0bddf12e97d10e17be053a940e2c636c2e917a97b91ee940270e"
+    },
+    {
+      "nombre": "Media.jpg",
+      "hash": "eadd999321cbaf6c7715700950c4a4d02da2501bb7418027c6f040380b3d1315"
+    },
+    {
+      "nombre": "EBOOT.BIN",
+      "hash": "33d0eff13f533e570a6d6d01758227333b75f94e0b40421ec88b275223256cca"
+    }
+  ],
+  "firma_autoria": "078efe6e4a1d368052412be8392dd54afe2ee706776483d5198ef3d0ff305261"
+}
