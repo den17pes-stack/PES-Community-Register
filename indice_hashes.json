@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-05T01:19:01.908869",
-  "_total_hashes_registrados": 140,
+  "_fecha_ultima_actualizacion": "2026-07-05T01:45:29.775879",
+  "_total_hashes_registrados": 145,
   "hashes": {
     "461539f2543a7591f6b5db9cb0e06499f899e98967f81877dfb4cc825cce07ff": {
       "archivo": "Lejana 600 - Angulo 1.jpg",
@@ -1122,6 +1122,46 @@
       "proyecto": "Camaras LIB 2k26 LD_Editions",
       "fecha_registro": "2026-07-05T01:19:01.909723",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_LIB_2k26_LD_Editions.json"
+    },
+    "5c93ca170144222c95c569b1738c87980147aa2d8f95a1f59e535e7737854849": {
+      "archivo": "EBOOT.BIN",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras PES 6 Org",
+      "fecha_registro": "2026-07-05T01:45:29.775917",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_PES_6_Org.json"
+    },
+    "d0baf19f3980c6b7c4c81c3f5416909c1d721fd2d5b791fd5f07f7d38e19db8b": {
+      "archivo": "Lejana.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras PES 6 Org",
+      "fecha_registro": "2026-07-05T01:45:29.775933",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_PES_6_Org.json"
+    },
+    "c0ce3c5852c18ef3e7241ec84c0fd1a307d8aa50d7e7b974a2e7b8a969488a03": {
+      "archivo": "EBOOT.BIN",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras PES 6 Org",
+      "fecha_registro": "2026-07-05T01:45:29.775944",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_PES_6_Org.json"
+    },
+    "85c5da5c81685ec526f0df217fa9d1365b52678d21361b5e33ab1aa4b26ba92a": {
+      "archivo": "Media.jpg",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras PES 6 Org",
+      "fecha_registro": "2026-07-05T01:45:29.775955",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_PES_6_Org.json"
+    },
+    "c3975f60d20a2510788c2441f23e212e0d7eb688b744f33ca330edd1ef19d9ab": {
+      "archivo": "EBOOT.BIN",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras PES 6 Org",
+      "fecha_registro": "2026-07-05T01:45:29.775969",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_PES_6_Org.json"
     }
   }
 }
