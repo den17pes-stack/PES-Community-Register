@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-05T02:10:16.850598",
-  "_total_hashes_registrados": 162,
+  "_fecha_ultima_actualizacion": "2026-07-05T02:35:50.905380",
+  "_total_hashes_registrados": 168,
   "hashes": {
     "461539f2543a7591f6b5db9cb0e06499f899e98967f81877dfb4cc825cce07ff": {
       "archivo": "Lejana 600 - Angulo 1.jpg",
@@ -1298,6 +1298,54 @@
       "proyecto": "Camaras eFootball 13-25 test",
       "fecha_registro": "2026-07-05T02:10:16.850716",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_13-25_test.json"
+    },
+    "b75bc11c640a7e7e7b8e276a09a375ac83ca530471689fc313d44c288db93822": {
+      "archivo": "cisojr4droid.apk",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 26 LIB V7test",
+      "fecha_registro": "2026-07-05T02:35:50.905425",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_26_LIB_V7test.json"
+    },
+    "661d7c9587ac2ba01437169ba011ec146d350cb427269a37fe9a83c97c915b9f": {
+      "archivo": "LEEME.txt",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 26 LIB V7test",
+      "fecha_registro": "2026-07-05T02:35:50.905447",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_26_LIB_V7test.json"
+    },
+    "76172d4f73edf163e75856af388f1e9e83fa4b72c130a5101e02c1082a2d9c5f": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 26 LIB V7test",
+      "fecha_registro": "2026-07-05T02:35:50.905461",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_26_LIB_V7test.json"
+    },
+    "f69e4a292a0d93398eaf18e5ad5cca3dfd9d05df1fcf546f82520d5fa3bf0987": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 26 LIB V7test",
+      "fecha_registro": "2026-07-05T02:35:50.905473",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_26_LIB_V7test.json"
+    },
+    "677771251b0b93929a29fcb52e2a99454e5ce9f32f3470d8261ef12c4c340464": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 26 LIB V7test",
+      "fecha_registro": "2026-07-05T02:35:50.905486",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_26_LIB_V7test.json"
+    },
+    "7771360b28d6f78176ae224de2fde14224ef722fe5c15f52d470c1da1211a12c": {
+      "archivo": "EBOOT.OLD",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "Camaras eFootball 26 LIB V7test",
+      "fecha_registro": "2026-07-05T02:35:50.905498",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_eFootball_26_LIB_V7test.json"
     }
   }
 }
