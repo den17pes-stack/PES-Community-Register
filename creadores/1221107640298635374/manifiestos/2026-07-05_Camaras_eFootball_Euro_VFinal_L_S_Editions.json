@@ -1,0 +1,30 @@
+{
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "Camaras eFootball Euro VFinal L_S Editions",
+  "categoria": "general",
+  "fecha_creacion": "2026-07-04",
+  "total_archivos": 5,
+  "archivos": [
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "190d066c09f38589549577b79650a48cc772e27378e2458cccb9c2019dcc6f70"
+    },
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "eb4eb53b99802ba03d9825ea71928db4238e96345464389e6ad33c04441a7dfa"
+    },
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "c6f50ac70b7d7f5b3be381030a845c8fcb38f4ea7de6778602fd208413238956"
+    },
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "e60eaa80dd362806c96add7274cef7421000e4f5e5a19115d19901ce45bfa907"
+    },
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "bef73ce3c34f88ac44713ebee596c1988be5ed9b70bcd88f874f589adc4df1a6"
+    }
+  ],
+  "firma_autoria": "47f47c950cc849826853d1e5631d0b4ee09dd0f145bdac69f2ab7965ef44240d"
+}
