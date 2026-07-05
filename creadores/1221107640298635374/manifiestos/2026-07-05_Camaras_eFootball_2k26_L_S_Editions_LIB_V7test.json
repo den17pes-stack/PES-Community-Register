@@ -1,0 +1,42 @@
+{
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "Camaras eFootball 2k26 L_S Editions LIB V7test",
+  "categoria": "general",
+  "fecha_creacion": "2026-07-04",
+  "total_archivos": 8,
+  "archivos": [
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "f9b6e8c685811ec378f048a661146950ecfcbecfdc05d5fdc85411199b7a1187"
+    },
+    {
+      "nombre": "Normal.jpeg",
+      "hash": "75862a23bdc290383bf627f6efe5ec7df000930750b4d573bdd37fe8c5699af7"
+    },
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "87b007c664da3fae77914833a45cba6fadacf14aacf40f5648564227a052c390"
+    },
+    {
+      "nombre": "Plana.jpeg",
+      "hash": "f48eb3fec395aa8f6096031e3044d110b1c4da9d541cea942d448cdd9ef006c6"
+    },
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "dc60dea1b4545eb51268000d3d878cb7703b49bd430aaacdbb3e69d3c7dd2ca8"
+    },
+    {
+      "nombre": "PS4.jpeg",
+      "hash": "930c6cb19fe5b799c114bafd56367aa51178a37bcdd4172eedf7b23f7744b748"
+    },
+    {
+      "nombre": "EBOOT.OLD",
+      "hash": "e8d5dba34ded74ad18c4bf5a7a441ba69bb114cac7420b795a7178e503c37417"
+    },
+    {
+      "nombre": "PS5.jpeg",
+      "hash": "df94b6d39e74ddce4195bc61b48ad6230887f8d73d1db79b4e34926805f1d489"
+    }
+  ],
+  "firma_autoria": "d2df1cafdab8c7b72df2ce437354c125eecc421d9d9e763f450fec770caf5324"
+}
