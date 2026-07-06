@@ -1,12 +1,12 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-06T00:12:19.719801",
+  "_fecha_ultima_actualizacion": "2026-07-06T15:50:34.594299",
   "_total_hashes_registrados": 213,
   "hashes": {
     "461539f2543a7591f6b5db9cb0e06499f899e98967f81877dfb4cc825cce07ff": {
       "archivo": "Lejana 600 - Angulo 1.jpg",
-      "autor": "DEN_+ fake2",
-      "autor_id": "1221107640298699374",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
       "proyecto": "Camaras v2 C19",
       "fecha_registro": "2026-07-05T01:13:11.981740",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
@@ -29,8 +29,8 @@
     },
     "9b7aeb887a87b6b0d9098e06fc35714624f85db25270659a3e657c0a230df53a": {
       "archivo": "Lejana 600 - Angulo 4.jpg",
-      "autor": "DEN_+ fake3",
-      "autor_id": "1221107640298635094",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
       "proyecto": "Camaras v2 C19",
       "fecha_registro": "2026-07-05T01:13:11.981780",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-05_Camaras_v2_C19.json"
