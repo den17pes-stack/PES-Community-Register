@@ -1,0 +1,31 @@
+{
+  "tipo": "registro",
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "Update PES 13 test 1",
+  "categoria": "general",
+  "fecha_creacion": "2026-07-06",
+  "total_archivos": 5,
+  "archivos": [
+    {
+      "nombre": "Gnota_66089.jpg",
+      "hash": "bd7f46d1211e5721ea8c1cbef63823f4d4bf785f15c049439546376d25b9629b"
+    },
+    {
+      "nombre": "images (3).jpg",
+      "hash": "c26fb02bf9acec259eb6a04957db773fcdf43c74a797a436b0cc60e03390f7db"
+    },
+    {
+      "nombre": "Sin título.png",
+      "hash": "1e4f39978a018f0755930d4a1539f08d6a88ba000ca56232a2ab529c2025d81e"
+    },
+    {
+      "nombre": "ULES00476_ppsspp (1).ini",
+      "hash": "daaa0f8a8e4674599616acbdf8229fa49af7c437a39e1d4d0487875f225362bf"
+    },
+    {
+      "nombre": "ULES00476_ppsspp.ini",
+      "hash": "daaa0f8a8e4674599616acbdf8229fa49af7c437a39e1d4d0487875f225362bf"
+    }
+  ],
+  "firma_autoria": "1c5ec05d1e53bee6c40430a98b7994166b602f022227c52ed8b4e4c6ae0f02fd"
+}
