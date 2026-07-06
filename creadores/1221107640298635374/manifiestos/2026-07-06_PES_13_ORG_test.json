@@ -1,0 +1,167 @@
+{
+  "tipo": "registro",
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "PES 13 ORG test",
+  "categoria": "general",
+  "fecha_creacion": "2026-07-06",
+  "total_archivos": 39,
+  "archivos": [
+    {
+      "nombre": "UMD_DATA.BIN",
+      "hash": "cbf51dcb8e99a7c09b2fa4a6e69cf4a187de0f0d1e7d2dcff8acb028a35a30ec"
+    },
+    {
+      "nombre": "ICON0.PNG",
+      "hash": "ec6187c63492303556bb300447bece9a263643dcbb7de0778cbb7b2775804cd2"
+    },
+    {
+      "nombre": "PARAM.SFO",
+      "hash": "df77c2e5cc183c615fc91c1c415764b9156a09a67fa24cf97a5be0e3f18de952"
+    },
+    {
+      "nombre": "PIC0.PNG",
+      "hash": "a076537e01662bb9d24a1fc2a6a0c987e084945ee55442011e9ff01c908f4cd4"
+    },
+    {
+      "nombre": "PIC1.PNG",
+      "hash": "ac6b4afa3be054cf58683dee0ad968d5df6533ea05ef5e96a8e7ee60f780ab5e"
+    },
+    {
+      "nombre": "0SOUND.DNS",
+      "hash": "5a3fb52e64586e10e3821185370912bed8badba1c3c3250adc3b94b2d5ecc15e"
+    },
+    {
+      "nombre": "0TEXT.DNS",
+      "hash": "02f9983cbfa6d600edd6f730ae922d2326cfcc107d9941794691a417c11f1ac7"
+    },
+    {
+      "nombre": "BSOUND.DNS",
+      "hash": "c7920a31848b886c66f33690c81a327ec16c756080752c95bc4ae501ba978180"
+    },
+    {
+      "nombre": "BTEXT.DNS",
+      "hash": "b625e2e8c960caa7e24796bd45eb97931c951b2a3b7bd041ff2e5c7dacde0c3f"
+    },
+    {
+      "nombre": "ESOUND.DNS",
+      "hash": "1651b2154f4306210e22b28552a9131a43425a7d38bc113712a8c33cd854fd81"
+    },
+    {
+      "nombre": "FSOUND.DNS",
+      "hash": "4f999cf40295b81fb8c7afb71a90c273d7ed354f8865cfc3ba5362500830b40e"
+    },
+    {
+      "nombre": "FTEXT.DNS",
+      "hash": "16c6a27f9dca4a9a82175dc5c64615166e11e6d582465c84e31e43ce546cd5aa"
+    },
+    {
+      "nombre": "ICON0.PNG",
+      "hash": "ec6187c63492303556bb300447bece9a263643dcbb7de0778cbb7b2775804cd2"
+    },
+    {
+      "nombre": "MSOUND.DNS",
+      "hash": "66b1fc5425c5353c445cc432f392782679bdc58a1ac0fd87023b6788f6362890"
+    },
+    {
+      "nombre": "MTEXT.DNS",
+      "hash": "544a8e5b3ef7577c0e0116540fe53f4a1ba4737df70b0c90a6c19d27df3a4a09"
+    },
+    {
+      "nombre": "PIC1.PNG",
+      "hash": "ac6b4afa3be054cf58683dee0ad968d5df6533ea05ef5e96a8e7ee60f780ab5e"
+    },
+    {
+      "nombre": "UTEXT.DNS",
+      "hash": "d7b9887144e8bfcbc371be63862c55780bbfcccfaf16187255a2bb84b32574cc"
+    },
+    {
+      "nombre": "BOOT.BIN",
+      "hash": "b1c71b3e8f048caa83be2cf479fadb58d350cdea2b522eca758bac2108c7325d"
+    },
+    {
+      "nombre": "EBOOT.BIN",
+      "hash": "1d65bcfc669a9774e4d5ceeb8b2aaf0f38c3c73dad2d1bcdba703971539f0d05"
+    },
+    {
+      "nombre": "OPNSSMP.BIN",
+      "hash": "c4ebace3c757b984b8ed90a45de19e9ef8531d4cde4c6078e6e8a468b91b37e9"
+    },
+    {
+      "nombre": "DATA.BIN",
+      "hash": "1fb1531660ab8a0984ef1101357500c10d349ced70cfda4982408eae0e2bc4a6"
+    },
+    {
+      "nombre": "EBOOT.BIN",
+      "hash": "fc9671a2cf46a2670505e901cefbcabbbae07bbab32cb1e231d578f773b8f886"
+    },
+    {
+      "nombre": "PARAM.SFO",
+      "hash": "f207254be893e34fde53d4abfc30b199c55f7b79e4bfb3566df2666a15c11fbe"
+    },
+    {
+      "nombre": "0SOUND.cpk",
+      "hash": "91b1f7478fa4587767075b1fb1efc4dec87662c71c79ea7ed6de4bc2c584bf9e"
+    },
+    {
+      "nombre": "0TEXT.cpk",
+      "hash": "a9adda88326a9fe30e1bb7a564a133757fe262133b5e0729799cff2c430ac7bb"
+    },
+    {
+      "nombre": "BSOUND.cpk",
+      "hash": "8b0d7174a2cdfc6528d32191fb67942f8864b7cf1909cd7266a870a02b2c300c"
+    },
+    {
+      "nombre": "BTEXT.cpk",
+      "hash": "4faaf32601f912f05baa4f7b4f72862a47951cf994f979f81a59f576597706bb"
+    },
+    {
+      "nombre": "ESOUND.cpk",
+      "hash": "7d28ab2d49bb91ebc80d911ed84ca70636221acb8c70e0a20c520e7aa61774ae"
+    },
+    {
+      "nombre": "FSOUND.cpk",
+      "hash": "a1f0f1a42292d02e9842f81cc59cd1d90e3343e22c2d829790c7b8db41272d03"
+    },
+    {
+      "nombre": "FTEXT.cpk",
+      "hash": "7217e6a037caf4286edf0a34f644219ae621c97feaf3ff08cc9dc1dd812c12d3"
+    },
+    {
+      "nombre": "MSOUND.cpk",
+      "hash": "14f9844a93171925d443da0987beae8ee1819032471bed80911cdfe346274245"
+    },
+    {
+      "nombre": "MTEXT.cpk",
+      "hash": "81f469e1f47735b466b8e544cb7ae73af99515145823647bec6d9b03bfd4b4d3"
+    },
+    {
+      "nombre": "OVER.cpk",
+      "hash": "6a2042f13cc071688842cd3d61b88ad4dce4ab819d071f18091f443a615b0a68"
+    },
+    {
+      "nombre": "UTEXT.cpk",
+      "hash": "1fdd829a51233cb317084256133c310fb89bbdcc7a7c842b6c175a241f281fee"
+    },
+    {
+      "nombre": "CL_A.pmf",
+      "hash": "c9c38e83d6748530d075994ae50e973ed798d200563875d2865ef2cde1493de1"
+    },
+    {
+      "nombre": "CL_B.pmf",
+      "hash": "0e3716d71048b7be4e33c0f8a8ed11bd62df137c403f48ea746ecb445932c95c"
+    },
+    {
+      "nombre": "CL_C.pmf",
+      "hash": "adb82eb846705bc0e441aec6862ec19d6545681c7793821c884fc5dba5ca23f6"
+    },
+    {
+      "nombre": "LB_A.pmf",
+      "hash": "0c2aff5dffab3bb1ba4bd539ba005c85a28ccb6fd18a6db1004eefe49ee71697"
+    },
+    {
+      "nombre": "WEPES.pmf",
+      "hash": "d0a23970cd439504b19c44eae6a3e05bd0656b7515406850b6899d659aa45ccf"
+    }
+  ],
+  "firma_autoria": "143665eb995bcf640a1e0636c706bd3929d56d39a7cc482a015ff1502dcecd18"
+}
