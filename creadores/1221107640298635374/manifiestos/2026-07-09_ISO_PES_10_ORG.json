@@ -1,0 +1,17 @@
+{
+  "tipo": "registro",
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "ISO PES 10 ORG",
+  "categoria": "ISO",
+  "fecha_creacion": "2026-07-09",
+  "total_archivos": 1,
+  "etiqueta": "KONAMI",
+  "archivos": [
+    {
+      "nombre": "PES 2010 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).iso",
+      "hash": "7775bfa7751d35f5e0bc451b3a7c6e2f00e9935591496b236d0879e775d004bd",
+      "tipo": "superficial"
+    }
+  ],
+  "firma_autoria": "442df7f3ba5191ee34e1050b25fb8394ca74224c2396f6bbcf91a6ffff4f9f3d"
+}
