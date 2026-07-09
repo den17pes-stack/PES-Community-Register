@@ -1,6 +1,17 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "",
-  "_total_hashes_registrados": 0,
-  "hashes": {}
+  "_fecha_ultima_actualizacion": "2026-07-09T17:49:37.760005",
+  "_total_hashes_registrados": 1,
+  "hashes": {
+    "7775bfa7751d35f5e0bc451b3a7c6e2f00e9935591496b236d0879e775d004bd": {
+      "archivo": "PES 2010 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).iso",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "ISO PES 10 ORG",
+      "etiqueta": "KONAMI",
+      "tipo": "superficial",
+      "fecha_registro": "2026-07-09T17:49:37.760877",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-09_ISO_PES_10_ORG.json"
+    }
+  }
 }
