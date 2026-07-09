@@ -1,0 +1,17 @@
+{
+  "tipo": "registro",
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "ISO PES 12 ORG",
+  "categoria": "ISO",
+  "fecha_creacion": "2026-07-09",
+  "total_archivos": 1,
+  "etiqueta": "KONAMI",
+  "archivos": [
+    {
+      "nombre": "0-pes2012.iso",
+      "hash": "b8b542d1b9485681d96028deb8399ffa7d8e109320be5d46eb05c03c244a4380",
+      "tipo": "superficial"
+    }
+  ],
+  "firma_autoria": "8b97e9f16d05cd76554fb6e00fb66a3c8725889ff9cb6a483ee3927f2adf3eb2"
+}
