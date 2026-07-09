@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-09T18:04:00.597135",
-  "_total_hashes_registrados": 1,
+  "_fecha_ultima_actualizacion": "2026-07-09T18:04:05.911840",
+  "_total_hashes_registrados": 2,
   "hashes": {
     "7775bfa7751d35f5e0bc451b3a7c6e2f00e9935591496b236d0879e775d004bd": {
       "archivo": "PES 2010 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).iso",
@@ -12,6 +12,16 @@
       "tipo": "superficial",
       "fecha_registro": "2026-07-09T17:49:37.760877",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-09_ISO_PES_10_ORG.json"
+    },
+    "8e7b1bb95f334c75fc4cacd8da229fd3e1216f30a80e485057f8a565451b3779": {
+      "archivo": "PES 2011 - Pro Evolution Soccer (USA) (En,Es).iso",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "ISO PES 11 ORG",
+      "etiqueta": "KONAMI",
+      "tipo": "superficial",
+      "fecha_registro": "2026-07-09T18:04:05.912013",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-09_ISO_PES_11_ORG.json"
     }
   }
 }
