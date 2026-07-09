@@ -1,0 +1,17 @@
+{
+  "tipo": "registro",
+  "autor": "Discord_1221107640298635374",
+  "proyecto": "ISO PES 13 ORG",
+  "categoria": "ISO",
+  "fecha_creacion": "2026-07-09",
+  "total_archivos": 1,
+  "etiqueta": "KONAMI",
+  "archivos": [
+    {
+      "nombre": "Pro Evolution Soccer 2013 PSP (Europe) (Es,Pt) org.iso",
+      "hash": "0812cbcb16c8a687de68865d3e42741bf47303d4bf47208d0d6fbfa7ad328dbb",
+      "tipo": "superficial"
+    }
+  ],
+  "firma_autoria": "13226cf95e92bca4562493ff5fdfdd1847b142d43ba6b0662582061d30a9b63d"
+}
