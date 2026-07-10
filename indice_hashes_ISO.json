@@ -1,7 +1,7 @@
 {
   "_version": "1.0",
-  "_fecha_ultima_actualizacion": "2026-07-09T18:39:10.877609",
-  "_total_hashes_registrados": 4,
+  "_fecha_ultima_actualizacion": "2026-07-09T20:14:06.978804",
+  "_total_hashes_registrados": 5,
   "hashes": {
     "7775bfa7751d35f5e0bc451b3a7c6e2f00e9935591496b236d0879e775d004bd": {
       "archivo": "PES 2010 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).iso",
@@ -42,6 +42,16 @@
       "tipo": "superficial",
       "fecha_registro": "2026-07-09T18:39:10.877778",
       "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-09_ISO_PES_13_ORG.json"
+    },
+    "a9cd4ea89dd2ee69218bb32b10c21afd05e15fd1152efd94e61f9c14de509cfb": {
+      "archivo": "Pro Evolution Soccer 2014 PSP (Europe) (Es,Pt).iso",
+      "autor": "DEN_+ AdminS",
+      "autor_id": "1221107640298635374",
+      "proyecto": "ISO PES 14 ORG",
+      "etiqueta": "KONAMI",
+      "tipo": "superficial",
+      "fecha_registro": "2026-07-09T20:14:06.978984",
+      "manifiesto_url": "creadores/1221107640298635374/manifiestos/2026-07-09_ISO_PES_14_ORG.json"
     }
   }
 }
